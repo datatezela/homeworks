@@ -1,2 +1,2 @@
-#declared - დეკლარირებული
-#concatenation - შეერთება
+# declared - დეკლარილებული, გამოცხადებული
+# concatenation - შეერთება

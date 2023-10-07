@@ -52,3 +52,20 @@ print(type(c))
 #random  number generator
 import random
 print(random.randrange(1, 10))
+
+x = int(1)
+y = int(2.8)
+z = int("3")
+print(x)
+print(y)
+print(z)
+
+
+x = float(1)
+y = float(2.8)
+z = float("3")
+w = float("4.2")
+print(x)
+print(y)
+print(z)
+print(w)

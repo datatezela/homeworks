@@ -1,11 +1,16 @@
 me = input("what's your name: ")
 my_age = input("how old are you: ")
+
 bro = input("what's your name: ")
 bro_age = input("how old are you: ")
+
 mom= input("what's your name: ")
 mom_age = input("how old are you: ")
+
 dad = input("what's your name: ")
 dad_age = input("how old are you: ")
+
+
 
 print("his name is " + me)
 print(me + " is " + my_age + " years old ")
