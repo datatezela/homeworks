@@ -1,7 +1,9 @@
 wage = int(input("რა არის შენი ხელფასი?"))
 if wage>10000:
     print("გოაში სწავლობდი?")
-elif 1000<wage<10000:
+elif 1000<wage<=10000:
     print("you are mid")
-elif wage<1000:
+elif wage<=1000:
     print("შემოსულიყავი გოაში, მატრიცელო")
+
+
